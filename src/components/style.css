@@ -1,0 +1,30 @@
+.header-item {
+    width: 33% !important;
+}
+
+.favorite-img {
+    width: 30px;
+    height: 30px;
+}
+
+.icons {
+     width: 30px;
+    height: 30px;
+}
+
+.cart-button {
+    background-color: black !important;
+    color: white !important;
+    margin-top: -1px !important;
+}
+
+.footer-logo {
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 0.8;
+  letter-spacing: -6px;
+}
+
+input::placeholder {
+  text-align: end;
+}
